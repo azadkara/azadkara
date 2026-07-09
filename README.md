@@ -1,8 +1,6 @@
 # Hi, I'm Azad 👋
 
-**MSc Artificial Intelligence @ JKU Linz** — deep learning for **drug discovery & computational biology**.
-
-MSc Artificial Intelligence student at JKU Linz. Former Data Analyst with enterprise BI experience, now building AI and data-intensive systems through machine learning, reinforcement learning, and cloud-based data engineering projects.
+**MSc Artificial Intelligence student at JKU Linz. Former Data Analyst with enterprise BI experience, now building AI and data-intensive systems through machine learning, reinforcement learning, and cloud-based data engineering projects.**
 ---
 
 
