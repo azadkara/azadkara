@@ -2,7 +2,7 @@
 
 **MSc Artificial Intelligence @ JKU Linz** — deep learning for **drug discovery & computational biology**.
 
-Currently doing my MSc at JKU Linz. Most interested in deep learning for drug discovery — protein structure, molecular generation, bioactivity — with side interests in computer vision (object detection for autonomous driving) and the data-engineering side of ML.
+MSc Artificial Intelligence student at JKU Linz. Former Data Analyst with enterprise BI experience, now building AI and data-intensive systems through machine learning, reinforcement learning, and cloud-based data engineering projects.
 ---
 
 
