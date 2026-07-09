@@ -5,10 +5,6 @@
 Currently doing my MSc at JKU Linz. Most interested in deep learning for drug discovery — protein structure, molecular generation, bioactivity — with side interests in computer vision (object detection for autonomous driving) and the data-engineering side of ML.
 ---
 
-### What I work on
-- 🧬 ML for computational biology — protein structure, binding-site prediction, molecular generation
-- 🔬 Cheminformatics & QSAR — bioactivity prediction, molecular representations
-- 🛠️ Data engineering background — pipelines, cloud, warehousing (Teradata, GCP, Kafka)
 
 ### Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
